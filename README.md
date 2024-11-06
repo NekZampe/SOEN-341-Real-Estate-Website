@@ -36,5 +36,6 @@ The Real Estate Web Application is a comprehensive solution for managing real es
 
 
 ## Demo
-![Project Screenshot]([https://github.com/NekZampe/FoodiesFrontEnd/blob/main/Project_Images/2_Feed.png](https://github.com/NekZampe/SOEN-341-Real-Estate-Website/blob/main/screenshots/Login.png))
-![Project Screenshot]([https://github.com/NekZampe/FoodiesFrontEnd/blob/main/Project_Images/2_Feed.png](https://github.com/NekZampe/SOEN-341-Real-Estate-Website/blob/main/screenshots/Login.png)](https://github.com/NekZampe/SOEN-341-Real-Estate-Website/blob/main/screenshots/homescreen.png))
+![Project Screenshot](https://github.com/NekZampe/SOEN-341-Real-Estate-Website/blob/main/screenshots/Login.png)
+
+![Project Screenshot](https://github.com/NekZampe/SOEN-341-Real-Estate-Website/blob/main/screenshots/homescreen.png)
