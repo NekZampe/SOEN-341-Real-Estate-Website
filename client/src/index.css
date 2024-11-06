@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+    width: 10px; /* Set the width of the scrollbar */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #5555553d; /* Color of the thumb when hovered */
+}
+
+/* Handle on scrollbar */
+::-webkit-scrollbar-thumb {
+    background: #0000000b; /* Color of the thumb */
+    border-radius: 10px; /* Round the corners of the thumb */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Handle when dragged */
+::-webkit-scrollbar-thumb:active {
+    background: #555; /* Color of the thumb when active (clicked) */
+}
